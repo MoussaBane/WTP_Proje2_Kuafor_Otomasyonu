@@ -9,8 +9,8 @@ Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodla
 
 # Bu Kodları Bilgisayarımda Nasıl Çalıştırabilirim?
   Bilgisayarınızda Xampp kurulu değilse ilk önce onu kurmanız gerekmektedir.
-  https://www.apachefriends.org/fr/download.html şu link üzerinden bilgisayarınıza uygun olan xampp'i indirebilirsiniz.
-  #Xamp kurulumu nasıl yapmalıyım?
+  https://www.apachefriends.org/fr/download.html link üzerinden bilgisayarınıza uygun olan xampp'i indirebilirsiniz.
+ Xamp kurulumu nasıl yapmalıyım?
   https://www.youtube.com/watch?v=OHcMNNV5V6k videodan kurulumunuzu yapabilirsiniz.
   
   
