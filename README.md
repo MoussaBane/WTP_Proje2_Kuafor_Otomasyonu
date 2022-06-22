@@ -8,7 +8,7 @@ Web Tabanlı Programlama Dersi ikici projet olarak PHP, Mysql ve Bootstrap kulla
 Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodları hem de resimleri indirmiş olursunuz.
 
 # Bu Kodları Bilgisayarımda Nasıl Çalıştırabilirim?
-  Bilgisayarınızda Xampp kurulu değilse ilk önce onu kurumanız gerekmektedir.
+  Bilgisayarınızda Xampp kurulu değilse ilk önce onu kurmanız gerekmektedir.
   https://www.apachefriends.org/fr/download.html şu link üzerinden bilgisayarınıza uygun olan xampp'i indirebilirsiniz.
   #Xamp kurulumu nasıl yapmalıyım?
   https://www.youtube.com/watch?v=OHcMNNV5V6k videodan kurulumunuzu yapabilirsiniz.
