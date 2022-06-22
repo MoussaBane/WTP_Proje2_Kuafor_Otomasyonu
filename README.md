@@ -60,6 +60,6 @@ Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodla
 
   Şu yukarıdaki resinlerdeki adımları takip ederek .sql uzantılı dosya import etmiş olursunuz ve artık kullandıgım veritabani bilgisayarınızda olur.
 
-  Son olarak http://localhost:8080/YeniKlasorunu YeniKlasorunuz denen htdocs/ klasöründe oluşturduğunuz ve indirdiginiz kodlarınız içeren klasörün adıdır.
+  Son olarak http://localhost:8080/YeniKlasorunuz YeniKlasorunuz denen htdocs/ klasöründe oluşturduğunuz ve indirdiginiz kodlarınız içeren klasörün adıdır.
   O klasörü index.php dosyası içerdiği için direk index.php yani otomasyonun ana sayfası açılacaktır.
     
