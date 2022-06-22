@@ -31,7 +31,7 @@ Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodla
 
 ![image](https://user-images.githubusercontent.com/75726215/175129954-1c9a73e9-e4e7-4b40-9857-eeefa9e8b82a.png)
 
-  Yukaridaki kodu kopyalayıp database_baglan.php dosyanızda Ctrl+A ardından Ctrl+V yaparak database_baglan.php dosyanızı bilgisayarınızda çalışabilmek hale gelmiş olur.
+  Yukaridaki kodun aynısını database_baglan.php dosyanızda Ctrl+A ardından Delete butonuna bastıktan sonra, yazarak ve kaydederek database_baglan.php dosyanızı           bilgisayarınızda çalışabilmek hale gelmiş olur.
 
   #Son İşlem Olarak: 
   ![image](https://user-images.githubusercontent.com/75726215/175125685-932cfbea-0df9-4fd4-b7b8-187f57aaa24f.png)
