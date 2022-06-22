@@ -29,23 +29,7 @@ Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodla
 
   Yukarıdaki resimde kırmızı çizgi içindeki kısım sunucu adi, kullanici adi, şifre ve veritabanı bilgilerdir. 
 
-  <?PHP 
-    $ServerName = 'localhost';
-    $UserName = 'root';
-    $PassWord = '';
-    $DataBaseName = 'otomasyon_database';
-
-    $MySql_Baglanti = mysqli_connect($ServerName,$UserName,$PassWord,$DataBaseName);
-
-    if(!$MySql_Baglanti){//Baglanti kurulmadıysa hata gosterilsin
-
-        echo "<h2>Database'e baglanti olusturulamadi !!!</h2> <br>";
-
-        echo "<b>Baglanti Hatasi:</b> ".mysqli_connect_error($MySql_Baglanti);
-
-        exit;
-    }
-  ?>
+![image](https://user-images.githubusercontent.com/75726215/175129954-1c9a73e9-e4e7-4b40-9857-eeefa9e8b82a.png)
 
   Yukaridaki kodu kopyalayıp database_baglan.php dosyanızda Ctrl+A ardından Ctrl+V yaparak database_baglan.php dosyanızı bilgisayarınızda çalışabilmek hale gelmiş olur.
 
@@ -62,4 +46,21 @@ Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodla
 
   Son olarak http://localhost:8080/YeniKlasorunuz YeniKlasorunuz denen htdocs/ klasöründe oluşturduğunuz ve indirdiginiz kodlarınız içeren klasörün adıdır.
   O klasörü index.php dosyası içerdiği için direk index.php yani otomasyonun ana sayfası açılacaktır.
-    
+  
+  
+  # Nasıl Çalışır?
+  Ana Sayfaya herkes ulaşabilmektedir. Menude Ana Sayfa ana sayfayı refresh veya ana sayfaya link vermektedir. Kayit Olmak İçin Kayit Ol butona tiklayarak
+  kayıt kayıt işlemi gerçekleşebilirsiniz. Kullanıcı adınız ve şifrenizi kullanarak giriş yapabilirsiniz.
+  
+  Default olarak kayıt olan herkesi KULLANICI'dir. Bir kullanıcı Admin Kullanıcı yapmak isterseniz database'e girip kullanicitable adlı tabloda Kategori sütunda
+  KULLANICI yerine ADMIN yazmanız gerekmektedir.
+  
+  Giriş işlemi başarılı ise kullanıcı kategorisine göre ya Admin ya da kullanıcıya özel sayfaya yönlendirilir.
+  Bir kullanıcı sadece kendi bilgileri görebilmektedir. Ve isterse o bilgileri güncelleyebilir veya silebilir.
+  Bir Admın ise bütün kullanıcıların bilgileri görebilmektedir ve silebilir fakat güncellemez. Admin olup ve bir kullanıcının bilgileri güncellemek isterse 
+  database üzerinden yapması gerekir.
+  
+  
+
+
+
