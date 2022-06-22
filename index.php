@@ -61,6 +61,15 @@
                 <div class="col-sm-5" style="background-color:black" >
                     <p class="footer-widget__text" style="background-color: white;"><b>Bize Ulas</b></p>
                     <ul class="list-unstyled footer-widget__contact-list">
+                        
+                        <li>
+                            <div class="icon">
+                                <i style="color: white" class="fa-phone-square-alt"></i>
+                            </div>
+                            <div class="text">
+                                <p><a href="https://github.com/MoussaBane/WTP_Proje2_Kuafor_Otomasyonu"><b>GitHub Repo</b></a></p>
+                            </div>
+                        </li>
                         <li>
                             <div class="icon">
                                 <i style="color: white" class="fa-phone-square-alt"></i>

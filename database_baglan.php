@@ -1,8 +1,8 @@
 <?PHP 
-    $ServerName = 'localhost';
-    $UserName = 'root';
-    $PassWord = '';
-    $DataBaseName = 'otomasyon_database';
+    $ServerName = 'ftp.malibaweb.com';
+    $UserName = 'u905036715_otomasyon_data';
+    $PassWord = 'Y5|gdO&7m7mp';
+    $DataBaseName = 'u905036715_otomasyon_data';
 
     $MySql_Baglanti = mysqli_connect($ServerName,$UserName,$PassWord,$DataBaseName);
 
