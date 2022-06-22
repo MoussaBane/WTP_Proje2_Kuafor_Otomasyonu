@@ -60,7 +60,11 @@ Yukarıdaki görüntüde gördüğünüz üzere .zip uzantılı olarak hem kodla
   Bir Admın ise bütün kullanıcıların bilgileri görebilmektedir ve silebilir fakat güncellemez. Admin olup ve bir kullanıcının bilgileri güncellemek isterse 
   database üzerinden yapması gerekir.
   
-  
+# DEMO İÇİN Aşağıdaki Linke Tiklayınız: 
+http://kral-kuafor-otomasyon.malibaweb.com/   
+
+#Admın Sayfası Nasıl Olduğunu Görmek isterseniz:
+Giriş Formunda, Kullanıcı Adı olarak MoussaBane ve şifre olarak da 1234 girerek MoussaBane adlı admın kullanıcı özel sayfasına olaşmış olursunuz.
 
 
 
