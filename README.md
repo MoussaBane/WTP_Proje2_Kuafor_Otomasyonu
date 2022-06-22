@@ -27,9 +27,12 @@ resimi inceleyiniz.
 
 ![image](https://user-images.githubusercontent.com/75726215/175121596-d72d750b-a785-4de5-ace7-7f6c730b1080.png)
     
-#Ardından:
+# Ardından:
 Ya visual studio code ya da notepad kullanarak database_baglan.php dosyası açınız.
-![image](https://user-images.githubusercontent.com/75726215/175123253-2a08a472-62f2-40a7-9638-5f6ef2dc0bfb.png)
+
+
+![image](https://user-images.githubusercontent.com/75726215/175169449-d455c6b0-0f0a-408e-9b2c-7ca06b6516fb.png)
+
 
 Yukarıdaki resimde kırmızı çizgi içindeki kısım sunucu adi, kullanici adi, şifre ve veritabanı bilgilerdir. 
 
@@ -38,6 +41,7 @@ Yukarıdaki resimde kırmızı çizgi içindeki kısım sunucu adi, kullanici ad
 Yukaridaki kodun aynısını database_baglan.php dosyanızda Ctrl+A ardından Delete butonuna bastıktan sonra, yazarak ve kaydederek database_baglan.php dosyanızı           bilgisayarınızda çalışabilmek hale gelmiş olur.
 
 # Son İşlem Olarak: 
+
 ![image](https://user-images.githubusercontent.com/75726215/175125685-932cfbea-0df9-4fd4-b7b8-187f57aaa24f.png)
 
 Resimde gösterildiği gibi Mysql satırında Admin butonuna tiklayarak veya şu linke http://localhost:8080/phpmyadmin/ tiklayarak phpmyadmin sayfasına ulaşabilirsiniz.
